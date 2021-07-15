@@ -1,7 +1,7 @@
 
 
 Todo mundo já jogou ou conhece o jogo da velha, certo!
-Pegando essa base, o projeto formula o jogo com uma base de inteligência, para que o 
+Pegando essa base, o projeto desenvolve o jogo com uma base de inteligência, para que o 
 player jogue diretamente com a máquina. Mas a máquina não podia perder.
 
 Tendo um exemplo mais claro da estrutura do projeto.
